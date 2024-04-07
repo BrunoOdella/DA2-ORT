@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using LogicInterface;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.ResponseCompression;
 using MoviesApi.Models.In;
@@ -19,20 +20,29 @@ namespace MoviesApi.Controllers
         //}
 
 
-        //[HttpGet]
-        //public IActionResult GetMovieByPostFix([FromQuery] string? endsWith)
-        //{
-        //    string[] movies = { "Shrek 2", "Harry Potter 2", "Barbie", "Oppenheimer" };
-        //    if (endsWith is null)
-        //    {
-        //        return Ok(movies);
-        //    }
-        //    return Ok(movies.Where(x=>x.EndsWith(endsWith)).ToList());
-        //}
+        private IMovieLogic movieLogic;
+        public MoviesController(IMovieLogic movieLogic)
+        {
+            this.movieLogic = movieLogic;
+        }
+
+
+        [HttpGet]
+        public IActionResult GetMovieByPostFix([FromQuery] string? endsWith)
+        {
+            string[] movies = { "Shrek 2", "Harry Potter 2", "Barbie", "Oppenheimer" };
+            if (endsWith is null)
+            {
+                return Ok(movies);
+            }
+            return Ok(movies.Where(x => x.EndsWith(endsWith)).ToList());
+        }
+
 
         [HttpGet("{title}")]
         public IActionResult GetMovieByTitle([FromRoute] string title)
         {
+            IMovieLogic movieLogic;
             string[] movies = { "Shrek 2", "Harry Potter 2", "Barbie", "Oppenheimer" };
             return Ok(from movie in movies
                       where movie.ToLower().Equals(title.ToLower())

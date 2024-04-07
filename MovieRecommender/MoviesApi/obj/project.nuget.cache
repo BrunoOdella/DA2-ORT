@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "a3dmuaSQQWXqC20XD9gfMDPcrf3PcGW/vobjisyB/trp47KUN2Rx5YaXglo4zJDR7QhSOXk6NFTXpxOkcLQ3QA==",
+  "dgSpecHash": "cqMGSPZd8mte/zDmiNOu1Vz01ZeqCXj0Td/UN01wrcKkIVZQ/L8i9Atr/qdK6TFW3TjJ1n8GW5EGEFihhLEbRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2\\MovieRecommender\\MoviesApi\\MoviesApi.csproj",
+  "projectFilePath": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\MoviesApi\\MoviesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",

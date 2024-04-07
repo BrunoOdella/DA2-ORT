@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ke6sOtqPpzDEnISjaQlezUZpqI2QA6pXf4Tb7kT9V16wCC/ZxT8LYRjtwg0CIxtOJt903FpIO/XRZGEdHSgU3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\ServiceFactory\\ServiceFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
