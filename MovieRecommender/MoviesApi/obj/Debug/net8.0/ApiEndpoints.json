@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "MoviesApi.Controllers.MoviesController",
+    "Method": "GetMovieByPostFix",
+    "RelativePath": "api/Movies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "endsWith",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoviesApi.Controllers.MoviesController",
     "Method": "CreateMovie",
     "RelativePath": "api/Movies",
     "HttpMethod": "POST",
@@ -9,7 +25,7 @@
     "Parameters": [
       {
         "Name": "movie",
-        "Type": "MoviesApi.Models.In.CreateMovieRequest",
+        "Type": "Models.In.CreateMovieRequest",
         "IsRequired": true
       }
     ],
@@ -29,6 +45,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoviesApi.Controllers.ReviewsController",
+    "Method": "GetAllReviews",
+    "RelativePath": "api/Reviews",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

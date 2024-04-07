@@ -1,10 +1,7 @@
 ﻿using LogicInterface;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.ResponseCompression;
-using MoviesApi.Models.In;
-using MoviesApi.Models.Out;
-using System.Reflection;
+using Models.In;
+using Models.Out;
 
 namespace MoviesApi.Controllers
 {
@@ -20,10 +17,10 @@ namespace MoviesApi.Controllers
         //}
 
 
-        private IMovieLogic movieLogic;
+        private IMovieLogic _movieLogic;
         public MoviesController(IMovieLogic movieLogic)
         {
-            this.movieLogic = movieLogic;
+            this._movieLogic = movieLogic;
         }
 
 

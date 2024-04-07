@@ -14,6 +14,7 @@ namespace ServiceFactory
         public static void AddServices(this IServiceCollection serviceCollection)
         {
             serviceCollection.AddScoped<IMovieLogic, MovieLogic>();
+            serviceCollection.AddScoped<IReviewLogic, ReviewLogic>();
         }
     }
 }

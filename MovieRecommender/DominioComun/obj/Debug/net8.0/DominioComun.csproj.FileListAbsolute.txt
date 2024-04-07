@@ -1,0 +1,12 @@
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\bin\Debug\net8.0\DominioComun.deps.json
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\bin\Debug\net8.0\DominioComun.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\bin\Debug\net8.0\DominioComun.pdb
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\obj\Debug\net8.0\DominioComun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\obj\Debug\net8.0\DominioComun.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\obj\Debug\net8.0\DominioComun.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\obj\Debug\net8.0\DominioComun.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\obj\Debug\net8.0\DominioComun.sourcelink.json
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\obj\Debug\net8.0\DominioComun.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\obj\Debug\net8.0\refint\DominioComun.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\obj\Debug\net8.0\DominioComun.pdb
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\DominioComun\obj\Debug\net8.0\ref\DominioComun.dll

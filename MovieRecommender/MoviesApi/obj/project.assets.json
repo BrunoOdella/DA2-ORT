@@ -141,6 +141,19 @@
           "bin/placeholder/LogicInterface.dll": {}
         }
       },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DominioComun": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
       "ServiceFactory/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -535,6 +548,11 @@
       "path": "../LogicInterface/LogicInterface.csproj",
       "msbuildProject": "../LogicInterface/LogicInterface.csproj"
     },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
+    },
     "ServiceFactory/1.0.0": {
       "type": "project",
       "path": "../ServiceFactory/ServiceFactory.csproj",
@@ -544,6 +562,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "LogicInterface >= 1.0.0",
+      "Models >= 1.0.0",
       "ServiceFactory >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -577,6 +596,9 @@
           "projectReferences": {
             "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\LogicInterface\\LogicInterface.csproj": {
               "projectPath": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\LogicInterface\\LogicInterface.csproj"
+            },
+            "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\Models.csproj"
             },
             "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\ServiceFactory\\ServiceFactory.csproj": {
               "projectPath": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\ServiceFactory\\ServiceFactory.csproj"
