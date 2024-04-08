@@ -1,6 +1,7 @@
 ﻿using DominioComun;
 using LogicInterface;
 using Microsoft.AspNetCore.Mvc;
+using Models.Out;
 
 namespace MoviesApi.Controllers
 {
@@ -23,8 +24,8 @@ namespace MoviesApi.Controllers
             {
                 return NotFound();
             }
-
-            return Ok(reviews);
+            var responseModels = reviews.Select(r => new ReviewResponseModel(r)).ToList();
+            return Ok(responseModels);
         }
 
     }
