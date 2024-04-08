@@ -24,7 +24,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "movie",
+        "Name": "movieRequest",
         "Type": "Models.In.CreateMovieRequest",
         "IsRequired": true
       }

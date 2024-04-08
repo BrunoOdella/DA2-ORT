@@ -18,7 +18,7 @@ namespace MoviesApi.Controllers
         [HttpGet]
         public IActionResult GetAllReviews()
         {
-            var reviews = _reviewLogic.GetAllReviews();
+            IEnumerable<Review> reviews = _reviewLogic.GetAllReviews();
             if (reviews == null || !reviews.Any()) 
             {
                 return NotFound();

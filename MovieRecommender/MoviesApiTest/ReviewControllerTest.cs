@@ -13,7 +13,7 @@ public class ReviewControllerTest
     private ReviewsController _reviewsController;
 
     [TestMethod]
-    public void GetAllReviesTestOk() {
+    public void GetAllReviewsTestOk() {
         //Arrange
         Movie movie = new Movie()
         {
@@ -30,8 +30,10 @@ public class ReviewControllerTest
             };
 
         Mock<IReviewLogic> reviewsLogicMock = new Mock<IReviewLogic>();
+
         reviewsLogicMock.Setup(logic => logic.GetAllReviews())
             .Returns(reviews);
+
         _reviewsController = new ReviewsController(reviewsLogicMock.Object);
 
         OkObjectResult expected = new OkObjectResult(new List<ReviewResponseModel>()

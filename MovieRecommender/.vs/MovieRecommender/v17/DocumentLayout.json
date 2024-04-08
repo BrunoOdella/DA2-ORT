@@ -7,44 +7,24 @@
       "RelativeMoniker": "D:0:0:{C49872B2-9815-4EA0-BC6C-D43D0A8C6471}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\logic\\reviewlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{396652EA-189A-4C24-9CF0-6E8A07E5D282}|LogicInterface\\LogicInterface.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\logicinterface\\ireviewlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{396652EA-189A-4C24-9CF0-6E8A07E5D282}|LogicInterface\\LogicInterface.csproj|solutionrelative:logicinterface\\ireviewlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C49872B2-9815-4EA0-BC6C-D43D0A8C6471}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C49872B2-9815-4EA0-BC6C-D43D0A8C6471}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3038E72-69F7-4649-8C81-0A4411B0BA46}|MoviesApi\\MoviesApi.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\moviesapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3038E72-69F7-4649-8C81-0A4411B0BA46}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3038E72-69F7-4649-8C81-0A4411B0BA46}|MoviesApi\\MoviesApi.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\moviesapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3038E72-69F7-4649-8C81-0A4411B0BA46}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A7F4764-E6E5-492F-A0EA-A3161B3C931E}|ServiceFactory\\ServiceFactory.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\servicefactory\\serviceafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7F4764-E6E5-492F-A0EA-A3161B3C931E}|ServiceFactory\\ServiceFactory.csproj|solutionrelative:servicefactory\\serviceafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87636AE9-AF7B-457F-9949-75F34F350B2C}|Models\\Models.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\models\\in\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87636AE9-AF7B-457F-9949-75F34F350B2C}|Models\\Models.csproj|solutionrelative:models\\in\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87636AE9-AF7B-457F-9949-75F34F350B2C}|Models\\Models.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\models\\out\\createmoviesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87636AE9-AF7B-457F-9949-75F34F350B2C}|Models\\Models.csproj|solutionrelative:models\\out\\createmoviesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5EA035A-06C5-421A-AA13-B8AB49B16F1C}|DominioComun\\DominioComun.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\dominiocomun\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5EA035A-06C5-421A-AA13-B8AB49B16F1C}|DominioComun\\DominioComun.csproj|solutionrelative:dominiocomun\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{396652EA-189A-4C24-9CF0-6E8A07E5D282}|LogicInterface\\LogicInterface.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\logicinterface\\ireviewlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396652EA-189A-4C24-9CF0-6E8A07E5D282}|LogicInterface\\LogicInterface.csproj|solutionrelative:logicinterface\\ireviewlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87636AE9-AF7B-457F-9949-75F34F350B2C}|Models\\Models.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\models\\out\\reviewresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87636AE9-AF7B-457F-9949-75F34F350B2C}|Models\\Models.csproj|solutionrelative:models\\out\\reviewresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A04910D0-309A-4C00-ABB6-320CE53586A7}|MoviesApiTest\\MoviesApiTest.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\moviesapitest\\reviewcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A04910D0-309A-4C00-ABB6-320CE53586A7}|MoviesApiTest\\MoviesApiTest.csproj|solutionrelative:moviesapitest\\reviewcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5EA035A-06C5-421A-AA13-B8AB49B16F1C}|DominioComun\\DominioComun.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\dominiocomun\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5EA035A-06C5-421A-AA13-B8AB49B16F1C}|DominioComun\\DominioComun.csproj|solutionrelative:dominiocomun\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5EA035A-06C5-421A-AA13-B8AB49B16F1C}|DominioComun\\DominioComun.csproj|c:\\users\\bruno\\source\\repos\\facultad\\da2-ort\\movierecommender\\dominiocomun\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EA035A-06C5-421A-AA13-B8AB49B16F1C}|DominioComun\\DominioComun.csproj|solutionrelative:dominiocomun\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,58 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServiceAFactory.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\ServiceFactory\\ServiceAFactory.cs",
-              "RelativeDocumentMoniker": "ServiceFactory\\ServiceAFactory.cs",
-              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\ServiceFactory\\ServiceAFactory.cs",
-              "RelativeToolTip": "ServiceFactory\\ServiceAFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:25:16.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\MoviesApi\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "MoviesApi\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\MoviesApi\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "MoviesApi\\Controllers\\MoviesController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:24:44.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateMovieRequest.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\In\\CreateMovieRequest.cs",
-              "RelativeDocumentMoniker": "Models\\In\\CreateMovieRequest.cs",
-              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\In\\CreateMovieRequest.cs",
-              "RelativeToolTip": "Models\\In\\CreateMovieRequest.cs",
+              "DocumentIndex": 1,
+              "Title": "BusinessLogic",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:24:41.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateMoviesResponse.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\Out\\CreateMoviesResponse.cs",
-              "RelativeDocumentMoniker": "Models\\Out\\CreateMoviesResponse.cs",
-              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\Out\\CreateMoviesResponse.cs",
-              "RelativeToolTip": "Models\\Out\\CreateMoviesResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:24:40.741Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T01:46:34.14Z",
               "EditorCaption": ""
             },
             {
@@ -116,40 +57,14 @@
               "RelativeDocumentMoniker": "BusinessLogic\\Logic\\ReviewLogic.cs",
               "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\BusinessLogic\\Logic\\ReviewLogic.cs",
               "RelativeToolTip": "BusinessLogic\\Logic\\ReviewLogic.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:23:21.789Z",
+              "WhenOpened": "2024-04-08T01:27:42.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\DominioComun\\Movie.cs",
-              "RelativeDocumentMoniker": "DominioComun\\Movie.cs",
-              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\DominioComun\\Movie.cs",
-              "RelativeToolTip": "DominioComun\\Movie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:18:19.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReviewResponseModel.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\Out\\ReviewResponseModel.cs",
-              "RelativeDocumentMoniker": "Models\\Out\\ReviewResponseModel.cs",
-              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\Out\\ReviewResponseModel.cs",
-              "RelativeToolTip": "Models\\Out\\ReviewResponseModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:18:01.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IReviewLogic.cs",
               "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\LogicInterface\\IReviewLogic.cs",
               "RelativeDocumentMoniker": "LogicInterface\\IReviewLogic.cs",
@@ -157,20 +72,33 @@
               "RelativeToolTip": "LogicInterface\\IReviewLogic.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:17:59.923Z",
+              "WhenOpened": "2024-04-08T01:27:46.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\DominioComun\\Review.cs",
               "RelativeDocumentMoniker": "DominioComun\\Review.cs",
               "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\DominioComun\\Review.cs",
               "RelativeToolTip": "DominioComun\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:49:03.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\Out\\ReviewResponseModel.cs",
+              "RelativeDocumentMoniker": "Models\\Out\\ReviewResponseModel.cs",
+              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\Out\\ReviewResponseModel.cs",
+              "RelativeToolTip": "Models\\Out\\ReviewResponseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:17:50.727Z",
+              "WhenOpened": "2024-04-08T00:48:39.793Z",
               "EditorCaption": ""
             },
             {
@@ -181,22 +109,9 @@
               "RelativeDocumentMoniker": "MoviesApi\\Controllers\\ReviewsController.cs",
               "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\MoviesApi\\Controllers\\ReviewsController.cs",
               "RelativeToolTip": "MoviesApi\\Controllers\\ReviewsController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:14:09.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReviewControllerTest.cs",
-              "DocumentMoniker": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\MoviesApiTest\\ReviewControllerTest.cs",
-              "RelativeDocumentMoniker": "MoviesApiTest\\ReviewControllerTest.cs",
-              "ToolTip": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\MoviesApiTest\\ReviewControllerTest.cs",
-              "RelativeToolTip": "MoviesApiTest\\ReviewControllerTest.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAcwC0AAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:13:38.124Z",
+              "WhenOpened": "2024-04-08T01:26:38.806Z",
               "EditorCaption": ""
             }
           ]
