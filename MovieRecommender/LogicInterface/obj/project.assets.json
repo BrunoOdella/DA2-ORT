@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/DominioComun.dll": {}
         }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DominioComun": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../DominioComun/DominioComun.csproj",
       "msbuildProject": "../DominioComun/DominioComun.csproj"
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "DominioComun >= 1.0.0"
+      "DominioComun >= 1.0.0",
+      "Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -55,6 +74,9 @@
           "projectReferences": {
             "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\DominioComun\\DominioComun.csproj": {
               "projectPath": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\DominioComun\\DominioComun.csproj"
+            },
+            "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\bruno\\source\\repos\\Facultad\\DA2-ORT\\MovieRecommender\\Models\\Models.csproj"
             }
           }
         }

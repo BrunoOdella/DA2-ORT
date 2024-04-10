@@ -1,11 +1,8 @@
 ﻿using LogicInterface;
 using BusinessLogic.Logic;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using IDataAccess;
+using DataAccess;
 
 namespace ServiceFactory
 {
@@ -15,6 +12,7 @@ namespace ServiceFactory
         {
             serviceCollection.AddScoped<IMovieLogic, MovieLogic>();
             serviceCollection.AddScoped<IReviewLogic, ReviewLogic>();
+            serviceCollection.AddScoped<IMovieRepository, MovieRepository>();
         }
     }
 }

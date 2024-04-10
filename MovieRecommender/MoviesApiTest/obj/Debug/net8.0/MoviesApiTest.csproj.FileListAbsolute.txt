@@ -135,3 +135,7 @@ C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApiTest\obj\
 C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApiTest\obj\Debug\net8.0\MoviesApiTest.pdb
 C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApiTest\obj\Debug\net8.0\MoviesApiTest.genruntimeconfig.cache
 C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApiTest\obj\Debug\net8.0\ref\MoviesApiTest.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApiTest\bin\Debug\net8.0\DataAccess.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApiTest\bin\Debug\net8.0\IDataAccess.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApiTest\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApiTest\bin\Debug\net8.0\IDataAccess.pdb

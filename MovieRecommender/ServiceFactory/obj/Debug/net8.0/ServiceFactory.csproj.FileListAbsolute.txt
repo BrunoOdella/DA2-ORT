@@ -18,3 +18,9 @@ C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\ServiceFactory\obj
 C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\ServiceFactory\obj\Debug\net8.0\refint\ServiceFactory.dll
 C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\ServiceFactory\obj\Debug\net8.0\ServiceFactory.pdb
 C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\ServiceFactory\obj\Debug\net8.0\ref\ServiceFactory.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\ServiceFactory\bin\Debug\net8.0\Models.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\ServiceFactory\bin\Debug\net8.0\Models.pdb
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\ServiceFactory\bin\Debug\net8.0\DataAccess.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\ServiceFactory\bin\Debug\net8.0\IDataAccess.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\ServiceFactory\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\ServiceFactory\bin\Debug\net8.0\IDataAccess.pdb

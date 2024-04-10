@@ -12,6 +12,7 @@ public class ReviewControllerTest
 {
     private ReviewsController _reviewsController;
 
+
     [TestMethod]
     public void GetAllReviewsTestOk() {
         //Arrange
@@ -29,7 +30,7 @@ public class ReviewControllerTest
                 }
             };
 
-        Mock<IReviewLogic> reviewsLogicMock = new Mock<IReviewLogic>();
+        Mock<IReviewLogic> reviewsLogicMock = new Mock<IReviewLogic>(MockBehavior.Strict);
 
         reviewsLogicMock.Setup(logic => logic.GetAllReviews())
             .Returns(reviews);
@@ -48,6 +49,7 @@ public class ReviewControllerTest
         List<ReviewResponseModel> objectResult = result.Value as List<ReviewResponseModel>;
 
         //Assert
+        reviewsLogicMock.VerifyAll();
         Assert.IsTrue(result.StatusCode.Equals(expected.StatusCode)
             && expectedObject.First().Movie.Title.Equals(objectResult.First().Movie.Title));
 

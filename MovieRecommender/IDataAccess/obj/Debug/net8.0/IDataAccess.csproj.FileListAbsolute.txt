@@ -1,0 +1,16 @@
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\bin\Debug\net8.0\IDataAccess.deps.json
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\bin\Debug\net8.0\IDataAccess.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\bin\Debug\net8.0\IDataAccess.pdb
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\bin\Debug\net8.0\DominioComun.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\bin\Debug\net8.0\DominioComun.pdb
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\obj\Debug\net8.0\IDataAccess.csproj.AssemblyReference.cache
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\obj\Debug\net8.0\IDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\obj\Debug\net8.0\IDataAccess.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\obj\Debug\net8.0\IDataAccess.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\obj\Debug\net8.0\IDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\obj\Debug\net8.0\IDataAccess.sourcelink.json
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\obj\Debug\net8.0\IDataAcc.32FE3A9E.Up2Date
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\obj\Debug\net8.0\IDataAccess.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\obj\Debug\net8.0\refint\IDataAccess.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\obj\Debug\net8.0\IDataAccess.pdb
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\IDataAccess\obj\Debug\net8.0\ref\IDataAccess.dll

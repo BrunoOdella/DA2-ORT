@@ -9,6 +9,8 @@
       "ServiceFactory/1.0.0": {
         "dependencies": {
           "BusinessLogic": "1.0.0",
+          "DataAccess": "1.0.0",
+          "IDataAccess": "1.0.0",
           "LogicInterface": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
         },
@@ -26,10 +28,20 @@
       },
       "BusinessLogic/1.0.0": {
         "dependencies": {
+          "IDataAccess": "1.0.0",
           "LogicInterface": "1.0.0"
         },
         "runtime": {
           "BusinessLogic.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "dependencies": {
+          "DominioComun": "1.0.0",
+          "IDataAccess": "1.0.0"
+        },
+        "runtime": {
+          "DataAccess.dll": {}
         }
       },
       "DominioComun/1.0.0": {
@@ -37,12 +49,29 @@
           "DominioComun.dll": {}
         }
       },
-      "LogicInterface/1.0.0": {
+      "IDataAccess/1.0.0": {
         "dependencies": {
           "DominioComun": "1.0.0"
         },
         "runtime": {
+          "IDataAccess.dll": {}
+        }
+      },
+      "LogicInterface/1.0.0": {
+        "dependencies": {
+          "DominioComun": "1.0.0",
+          "Models": "1.0.0"
+        },
+        "runtime": {
           "LogicInterface.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "dependencies": {
+          "DominioComun": "1.0.0"
+        },
+        "runtime": {
+          "Models.dll": {}
         }
       }
     }
@@ -65,12 +94,27 @@
       "serviceable": false,
       "sha512": ""
     },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "DominioComun/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
+    "IDataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "LogicInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

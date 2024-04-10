@@ -1,11 +1,13 @@
 ﻿using DominioComun;
+using Models.In;
+using Models.Out;
 
 namespace LogicInterface
 {
     public interface IMovieLogic
     {
         IEnumerable<Movie> GetMoviesByPosFtix(string postfix);
-        Movie GetMovieByTitle(string title);
-        Movie CreateMovie(Movie movie);
+        CreateMovieResponse GetMovieByTitle(string title);
+        CreateMovieResponse CreateMovie(CreateMovieRequest movie);
     }
 }

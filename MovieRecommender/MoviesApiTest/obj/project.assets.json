@@ -553,6 +553,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "IDataAccess": "1.0.0",
           "LogicInterface": "1.0.0"
         },
         "compile": {
@@ -560,6 +561,20 @@
         },
         "runtime": {
           "bin/placeholder/BusinessLogic.dll": {}
+        }
+      },
+      "DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DominioComun": "1.0.0",
+          "IDataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccess.dll": {}
         }
       },
       "DominioComun/1.0.0": {
@@ -572,11 +587,25 @@
           "bin/placeholder/DominioComun.dll": {}
         }
       },
-      "LogicInterface/1.0.0": {
+      "IDataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "DominioComun": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IDataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IDataAccess.dll": {}
+        }
+      },
+      "LogicInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DominioComun": "1.0.0",
+          "Models": "1.0.0"
         },
         "compile": {
           "bin/placeholder/LogicInterface.dll": {}
@@ -622,6 +651,8 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "BusinessLogic": "1.0.0",
+          "DataAccess": "1.0.0",
+          "IDataAccess": "1.0.0",
           "LogicInterface": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
         },
@@ -1671,10 +1702,20 @@
       "path": "../BusinessLogic/BusinessLogic.csproj",
       "msbuildProject": "../BusinessLogic/BusinessLogic.csproj"
     },
+    "DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DataAccess/DataAccess.csproj",
+      "msbuildProject": "../DataAccess/DataAccess.csproj"
+    },
     "DominioComun/1.0.0": {
       "type": "project",
       "path": "../DominioComun/DominioComun.csproj",
       "msbuildProject": "../DominioComun/DominioComun.csproj"
+    },
+    "IDataAccess/1.0.0": {
+      "type": "project",
+      "path": "../IDataAccess/IDataAccess.csproj",
+      "msbuildProject": "../IDataAccess/IDataAccess.csproj"
     },
     "LogicInterface/1.0.0": {
       "type": "project",

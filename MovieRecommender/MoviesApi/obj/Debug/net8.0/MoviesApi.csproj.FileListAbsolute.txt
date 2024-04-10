@@ -106,3 +106,7 @@ C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApi\obj\Debu
 C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApi\obj\Debug\net8.0\MoviesApi.csproj.Up2Date
 C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApi\obj\Debug\net8.0\MoviesApi.genruntimeconfig.cache
 C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApi\obj\Debug\net8.0\ref\MoviesApi.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApi\bin\Debug\net8.0\DataAccess.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApi\bin\Debug\net8.0\IDataAccess.dll
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApi\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\bruno\source\repos\Facultad\DA2-ORT\MovieRecommender\MoviesApi\bin\Debug\net8.0\IDataAccess.pdb
